@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="116.9mm"
+   height="162.2mm"
+   viewBox="0 0 116.9 162.19995"
+   version="1.1"
+   id="svg7070"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="lebanon.svg">
+  <defs
+     id="defs7064" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="-12.432016"
+     inkscape:cy="-8.0212645"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7067">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-155.84895,128.85353)">
+    <path
+       style="fill:#ffffff;stroke-width:26.45155334"
+       inkscape:connector-curvature="0"
+       id="lb"
+       d="m 155.84895,31.305801 c 18.54304,-21.6100362 17.93517,-60.650859 33.67381,-84.985181 7.82833,-12.035001 -1.31971,-28.301935 7.64837,-39.913762 6.98851,-9.046298 26.08244,-19.044308 19.94575,-33.063008 7.16847,1.53454 18.09314,4.60262 24.97067,0.49985 15.89861,-9.44318 4.679,8.51745 7.0085,13.93943 -0.29993,-0.70979 10.44877,3.30601 11.58553,4.39068 7.9883,7.67071 3.46926,6.00421 9.52797,17.060502 12.88325,23.620235 -28.27797,27.376212 -11.90346,47.293355 -16.66545,-4.972513 -45.04839,6.691998 -25.18263,25.207261 -7.37842,1.692493 -32.51006,26.0536072 -33.62182,33.618445 -1.81962,-0.949716 -3.22932,-2.380288 -4.17911,-4.205742 -2.77941,5.422378 -1.8796,12.590434 -5.89874,17.404394 -7.19847,8.622421 -24.36381,3.04209 -33.56884,2.751177 z" />
+  </g>
+</svg>

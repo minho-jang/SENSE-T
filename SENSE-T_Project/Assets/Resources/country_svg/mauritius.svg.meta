@@ -1,0 +1,70 @@
+fileFormatVersion: 2
+guid: eea0d925f3bb45d4ba49e2d094e6860c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: a57477913897c46af95d590f580878bd, type: 3}
+  svgType: 0
+  texturedSpriteMeshType: 0
+  svgPixelsPerUnit: 10000
+  gradientResolution: 128
+  alignment: 6
+  customPivot: {x: 0, y: 0}
+  generatePhysicsShape: 1
+  viewportOptions: 0
+  preserveViewport: 0
+  advancedMode: 0
+  predefinedResolutionIndex: 2
+  targetResolution: 720
+  resolutionMultiplier: 1
+  stepDistance: 10
+  samplingStepDistance: 100
+  maxCordDeviationEnabled: 0
+  maxCordDeviation: 1
+  maxTangentAngleEnabled: 0
+  maxTangentAngle: 5
+  keepTextureAspectRatio: 1
+  textureSize: 256
+  textureWidth: 256
+  textureHeight: 256
+  wrapMode: 0
+  filterMode: 1
+  sampleCount: 4
+  preserveSVGImageAspect: 0
+  spriteData:
+    TessellationDetail: 0.1
+    SpriteRect:
+      name: mauritiusSprite
+      originalName: 
+      pivot: {x: 0, y: 0}
+      alignment: 6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 542
+        height: 85
+      spriteID: ef57f9d7bf7f5cd4781dfd4ba291f94f
+      internalID: 0
+    PhysicsOutlines:
+    - Vertices:
+      - {x: -248.95934, y: 11.5}
+      - {x: -262.18542, y: -7.6949234}
+      - {x: -271, y: -25.696695}
+      - {x: -271, y: -42.5}
+      - {x: -252.7475, y: -42.5}
+      - {x: -236.3309, y: -27.899292}
+      - {x: -235.13126, y: 3.5005913}
+      - {x: -242.93109, y: 10.300354}
+    - Vertices:
+      - {x: 261.98337, y: 42.5}
+      - {x: 261.98337, y: 38.5}
+      - {x: 267.99445, y: 35.5}
+      - {x: 269.99814, y: 35.5}
+      - {x: 271, y: 36.5}
+      - {x: 271, y: 42.5}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="190mm"
+   height="111mm"
+   viewBox="0 0 189.99999 111.00001"
+   version="1.1"
+   id="svg7070"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="cyprus.svg">
+  <defs
+     id="defs7064" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="0.67666145"
+     inkscape:cy="-18.448799"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7067">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-158.45094,66.517982)">
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:26.4606781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 161.84051,1.6064008 c -1.10986,-3.069932 -2.24971,-6.1398641 -3.38957,-9.2628122 11.48155,11.3276391 28.38641,-10.2160016 41.48176,-9.3428366 20.21145,1.376418 5.02936,-18.923445 23.756,-18.447001 20.10646,0.500152 37.9892,4.04923 58.12166,-1.376417 22.61914,-6.06084 42.91058,-29.6424 66.64058,-29.695316 -15.00011,9.448869 -28.4924,31.574386 -45.18529,36.841185 -18.2277,5.716736 0,23.2110471 7.21909,31.2832978 -7.77902,0.9502885 -25.50278,-0.5801761 -31.45503,4.7904544 -6.66916,6.0338318 -8.93887,14.5300118 -18.04272,17.6795678 -8.01899,2.752836 -39.41702,6.086848 -34.52364,20.405495 C 200.14067,31.169476 174.26794,35.113174 161.83451,1.6066009 Z"
+       id="cy" />
+  </g>
+</svg>

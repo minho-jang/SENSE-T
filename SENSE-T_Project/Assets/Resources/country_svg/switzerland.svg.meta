@@ -1,0 +1,81 @@
+fileFormatVersion: 2
+guid: 2954a6858663c874e85ad8bdeb1d34a5
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: a57477913897c46af95d590f580878bd, type: 3}
+  svgType: 0
+  texturedSpriteMeshType: 0
+  svgPixelsPerUnit: 10000
+  gradientResolution: 128
+  alignment: 6
+  customPivot: {x: 0, y: 0}
+  generatePhysicsShape: 1
+  viewportOptions: 0
+  preserveViewport: 0
+  advancedMode: 0
+  predefinedResolutionIndex: 2
+  targetResolution: 720
+  resolutionMultiplier: 1
+  stepDistance: 10
+  samplingStepDistance: 100
+  maxCordDeviationEnabled: 0
+  maxCordDeviation: 1
+  maxTangentAngleEnabled: 0
+  maxTangentAngle: 5
+  keepTextureAspectRatio: 1
+  textureSize: 256
+  textureWidth: 256
+  textureHeight: 256
+  wrapMode: 0
+  filterMode: 1
+  sampleCount: 4
+  preserveSVGImageAspect: 0
+  spriteData:
+    TessellationDetail: 0.1
+    SpriteRect:
+      name: switzerlandSprite
+      originalName: 
+      pivot: {x: 0, y: 0}
+      alignment: 6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 358
+        height: 190
+      spriteID: 33032c993c2718e46b6b310341225670
+      internalID: 0
+    PhysicsOutlines:
+    - Vertices:
+      - {x: 179, y: -33}
+      - {x: 179, y: 18}
+      - {x: 146, y: 21}
+      - {x: 105, y: 29}
+      - {x: 119, y: 67}
+      - {x: 85, y: 90}
+      - {x: 54, y: 95}
+      - {x: 11, y: 95}
+      - {x: -5, y: 83}
+      - {x: -54, y: 83}
+      - {x: -93, y: 73}
+      - {x: -101, y: 65}
+      - {x: -103, y: 55}
+      - {x: -165, y: -11}
+      - {x: -179, y: -48}
+      - {x: -179, y: -69}
+      - {x: -173, y: -71}
+      - {x: -136, y: -46}
+      - {x: -88, y: -92}
+      - {x: -22, y: -93}
+      - {x: 16, y: -61}
+      - {x: 51, y: -95}
+      - {x: 70, y: -95}
+      - {x: 87, y: -35}
+      - {x: 145, y: -62}
+      - {x: 163, y: -37}

@@ -1,0 +1,65 @@
+fileFormatVersion: 2
+guid: cb2809c12a08ed1449acf2f157bacccf
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: a57477913897c46af95d590f580878bd, type: 3}
+  svgType: 0
+  texturedSpriteMeshType: 0
+  svgPixelsPerUnit: 10000
+  gradientResolution: 128
+  alignment: 6
+  customPivot: {x: 0, y: 0}
+  generatePhysicsShape: 1
+  viewportOptions: 0
+  preserveViewport: 0
+  advancedMode: 0
+  predefinedResolutionIndex: 2
+  targetResolution: 720
+  resolutionMultiplier: 1
+  stepDistance: 10
+  samplingStepDistance: 100
+  maxCordDeviationEnabled: 0
+  maxCordDeviation: 1
+  maxTangentAngleEnabled: 0
+  maxTangentAngle: 5
+  keepTextureAspectRatio: 1
+  textureSize: 256
+  textureWidth: 256
+  textureHeight: 256
+  wrapMode: 0
+  filterMode: 1
+  sampleCount: 4
+  preserveSVGImageAspect: 0
+  spriteData:
+    TessellationDetail: 0
+    SpriteRect:
+      name: marshall_islandSprite
+      originalName: 
+      pivot: {x: 0, y: 0}
+      alignment: 6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 7
+        height: 8
+      spriteID: 3b26153c67e424640b3246ef03835953
+      internalID: 0
+    PhysicsOutlines:
+    - Vertices:
+      - {x: -3.5, y: 4}
+      - {x: -3.5, y: 2.8006043}
+      - {x: -2.777946, y: 0.21617985}
+      - {x: -0.86928296, y: -2.1153605}
+      - {x: 1.4345961, y: -3.3544917}
+      - {x: 3.5, y: -4}
+      - {x: 2.7212148, y: -1.8817606}
+      - {x: 1.1636457, y: 0.531507}
+      - {x: -0.8504534, y: 2.4232965}
+      - {x: -2.4437735, y: 3.4629073}

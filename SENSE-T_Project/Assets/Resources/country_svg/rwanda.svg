@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="178.5mm"
+   height="176.7mm"
+   viewBox="0 0 178.5 176.69997"
+   version="1.1"
+   id="svg7070"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="rwanda.svg">
+  <defs
+     id="defs7064" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="5.4098929"
+     inkscape:cy="-6.5031897"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7067">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-157.19859,131.60374)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke-width:26.4635334"
+       d="m 157.83686,13.453842 c -6.1616,-12.70169421 34.32492,-29.2403 34.00783,-46.202363 -0.60015,-29.822479 3.36088,-40.671926 28.79448,-55.464099 3.18083,-1.852247 19.45106,-18.86732 23.44809,-15.7712 5.3714,4.180554 7.36192,18.54977 16.01116,8.997196 6.80177,-7.488996 29.03255,-40.566016 41.44477,-36.226336 -5.7915,17.09438 8.92232,38.713768 16.69934,51.362555 9.74253,15.877118 19.61109,43.106351 17.04343,61.285676 C 332.03511,4.3247244 319.00973,7.2885197 299.6637,-0.06796161 277.724,-8.3770701 272.40462,11.522385 253.56173,-5.1226359 250.86102,15.491114 252.56147,38.036622 227.62599,43.249617 214.92269,45.89597 203.0396,47.536189 196.81999,34.781487 189.9382,20.78312 171.78448,21.920972 170.3021,38.645003 162.44005,31.289021 158.55104,24.408504 157.83686,13.453242 Z"
+       id="rw" />
+  </g>
+</svg>

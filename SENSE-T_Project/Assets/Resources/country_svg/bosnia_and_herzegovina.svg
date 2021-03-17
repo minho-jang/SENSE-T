@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="309.20001mm"
+   height="265.39999mm"
+   viewBox="0 0 309.19999 265.40003"
+   version="1.1"
+   id="svg7070"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="bosnia_and_herzegovina.svg">
+  <defs
+     id="defs7064" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="-5.2075799"
+     inkscape:cy="-13.460522"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7067">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-160.0078,219.59817)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke-width:26.46033669"
+       d="m 160.03362,-203.85334 c -0.90008,-27.35943 21.9631,-7.93845 32.52111,0.66004 11.43109,9.28752 19.34285,1.45508 23.86728,-10.31928 4.39042,-11.29833 21.61807,-3.70421 29.42481,-2.11712 1.37014,-11.00732 47.57655,7.56742 58.00155,7.56742 7.22069,0 20.40195,7.35542 26.27551,3.22818 13.52229,-9.47253 10.00296,1.93111 21.9891,-0.71004 14.6334,-3.25418 27.41362,0.42003 41.09393,5.92734 11.43109,4.60425 4.2304,15.66417 18.97281,16.45802 9.15088,0.50003 21.64507,-9.34052 29.68884,-5.3453 12.88623,6.45636 2.0902,24.21076 -3.23031,31.38136 -17.72869,23.84023 1.85018,31.96349 19.26384,45.19333 29.97987,22.808378 -8.65082,11.53655 -13.07224,17.860401 -0.60006,0.790044 20.55996,27.253627 20.69297,33.762692 0.20002,5.662317 -39.85081,13.309346 -46.57145,11.086721 -1.61015,10.610395 11.5371,14.870434 6.80065,26.062861 -6.53062,-21.511806 -37.6536,5.768323 -27.78365,23.54921938 C 364.68018,-6.7248944 402.85883,47.808561 386.43126,45.744646 373.62404,44.130555 351.07888,30.133371 341.12993,22.142523 c -5.2405,-4.207236 -6.56062,-9.922556 -13.86532,-11.271931 -7.49072,-1.3490761 -9.3909,5.953333 -14.97643,-2.9371651 21.93509,-0.2900162 -19.68689,-35.1915719 -23.52425,-39.9543389 -19.76589,-24.528274 -34.42529,-32.783737 -52.36601,-52.946067 -9.21088,-10.372281 -21.38004,-15.770081 -30.79994,-25.507331 -11.06106,-11.48354 -3.92038,-29.92598 -14.42138,-42.70609 -7.96076,-9.71055 -18.20574,-12.19798 -27.96967,-19.07757 -4.87047,-3.41319 -2.30022,-24.13135 -3.17031,-31.59297 z"
+       id="ba" />
+  </g>
+</svg>

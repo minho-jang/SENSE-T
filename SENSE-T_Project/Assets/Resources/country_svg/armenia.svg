@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="286.60001mm"
+   height="244.09999mm"
+   viewBox="0 0 286.59999 244.10001"
+   version="1.1"
+   id="svg7070"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="armenia.svg">
+  <defs
+     id="defs7064" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="2.3468114"
+     inkscape:cy="-14.61288"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7067">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-158.00905,198.60306)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke-width:26.4595089"
+       d="m 158.01105,-179.89839 c 12.33099,-5.45005 31.40852,-1.64002 45.16762,-5.00105 22.14778,-5.39804 46.49174,-3.49303 69.11555,-5.05404 -4.50036,-3.67803 -3.10025,-5.63605 4.21034,-5.84705 5.69046,-4.73604 8.86071,-3.46603 9.47076,3.78403 2.75022,2.67203 27.62422,16.08684 4.74038,11.3243 15.53225,11.8005 39.53117,11.95921 47.17879,32.78209 -30.19143,9.44608 3.41027,36.35412 16.53732,44.18589 6.93056,4.127033 22.59782,6.879057 24.44997,16.271939 3.62029,18.25646 -19.47557,15.372435 -29.29236,19.36767 10.18782,3.863034 48.89893,43.656683 59.35077,39.449746 5.32042,-2.117018 30.32443,5.768051 20.85167,11.456601 -14.05113,8.4140734 10.08081,19.8174734 14.81719,25.585424 -14.76518,1.799016 -6.16049,29.395458 -0.80006,36.142417 -14.65818,-4.710041 -27.3862,8.731077 -36.93797,-6.80006 -9.23074,-15.002031 -10.31983,-31.0623721 -26.1701,-38.9999417 -7.4306,-3.7310327 -1.03008,-19.6587723 -9.71078,-23.0190023 -8.12065,-3.149027 -13.38907,1.720015 -20.21562,4.974044 -11.08689,5.186046 -17.14638,-14.075923 -29.66238,-6.773059 1.69013,-23.812709 -31.22351,-10.927396 -45.27363,-21.404988 -12.99205,-9.684085 -19.44856,-23.177703 -37.46801,-22.622099 -18.60149,0.560005 -34.21375,-2.117018 -50.93609,-10.556992 8.28067,-5.583049 1.53012,-11.906305 -2.86023,-17.06575 -8.25066,-9.631089 -0.20001,-21.828289 5.69046,-31.432779 15.61125,-25.53252 -31.67354,-30.40086 -32.25559,-50.74754 z"
+       id="am" />
+  </g>
+</svg>

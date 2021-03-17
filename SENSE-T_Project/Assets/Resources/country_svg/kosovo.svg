@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="131.60001mm"
+   height="147.10001mm"
+   viewBox="0 0 131.59999 147.10002"
+   version="1.1"
+   id="svg7070"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="kosovo.svg">
+  <defs
+     id="defs7064" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="-5.4279876"
+     inkscape:cy="-18.10727"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7067">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-160.06612,102.52762)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke-width:26.46463203"
+       d="m 164.80668,-45.474081 c 1.46049,-6.880006 -3.12103,-7.039029 1.59053,-4.948723 1.19039,-8.018172 13.23336,-4.180611 16.3824,-9.500389 5.16171,-8.679269 2.06068,-11.21994 7.75256,-13.654496 11.61883,-5.001731 12.41209,-10.320208 6.93229,-23.075072 5.53182,-0.740109 10.58649,-2.725399 15.165,-5.874859 3.55117,22.889846 59.94777,12.992899 55.95146,35.776929 -2.01067,11.510983 20.3267,15.983136 22.7355,25.430117 3.57117,13.839723 -21.62414,28.473362 -11.43378,39.6668976 -9.26305,0.71010383 -22.84153,2.09030556 -19.37439,15.1363124 -15.88024,-0.530078 -19.47942,-11.9873521 -35.25363,-0.850124 -13.55147,9.526392 -8.1827,24.927343 -26.04359,31.939868 -2.78091,-21.593156 3.25108,-35.9886601 -16.80654,-51.2837956 -9.31307,-7.0650324 -8.94295,2.8584178 -14.71586,-11.8286284 -2.20072,-5.583817 -2.7509,-24.239343 -7.62251,-26.938438 m 4.74156,0 z"
+       id="kosovo" />
+  </g>
+</svg>

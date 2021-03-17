@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="144.2mm"
+   height="178.10001mm"
+   viewBox="0 0 144.2 178.09994"
+   version="1.1"
+   id="svg7070"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="djibouti.svg">
+  <defs
+     id="defs7064" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="1.7789233"
+     inkscape:cy="-11.049623"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7067">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-157.65153,145.55479)">
+    <path
+       style="fill:#ffffff;stroke-width:26.45981026"
+       inkscape:connector-curvature="0"
+       id="dj"
+       d="m 160.95883,24.22119 c 0,-27.0657008 -10.50564,-54.025506 5.93093,-78.498422 12.35793,-18.414084 23.7107,-35.135043 34.42737,-54.501688 12.51696,-22.5944 18.81494,-10.47703 36.72974,-5.68874 9.08141,2.43389 8.57133,-11.77338 12.14689,-16.48277 5.50086,-7.27568 15.05735,-10.18605 22.62553,-14.60436 7.80122,17.14424 40.56633,49.078028 24.79487,69.079642 -8.10126,10.291844 -33.36921,21.985926 -45.43609,26.774613 -12.41094,4.894784 -13.99818,19.525435 -28.15539,21.827233 9.31145,11.932171 36.99377,-7.751656 50.43687,-2.539887 24.31879,9.392584 0.08,33.2037285 -6.401,46.564536 -9.79153,20.186806 -25.32395,-0.849962 -40.51332,3.121862 -15.61344,4.127817 -56.23278,24.446417 -66.5804,4.947781 z" />
+  </g>
+</svg>

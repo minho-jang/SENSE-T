@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="139.8mm"
+   height="166.39999mm"
+   viewBox="0 0 139.79999 166.40001"
+   version="1.1"
+   id="svg7070"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="montenegro.svg">
+  <defs
+     id="defs7064" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="-0.51269334"
+     inkscape:cy="-17.488073"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7067">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-158.76561,121.66379)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke-width:26.45535469"
+       d="m 160.0052,-26.705133 c 21.98213,-3.624987 -22.03512,-52.78421 12.61821,-45.375937 -9.83783,-17.753436 21.26729,-45.03194 27.80084,-23.521315 4.73895,-11.165455 -8.40814,-15.451645 -6.7985,-26.061405 14.09988,4.62998 17.69709,13.09685 29.49547,23.309715 16.02945,13.89055 21.05534,20.240527 40.07513,29.818392 7.43835,3.730987 29.20353,1.243996 33.77952,9.339967 6.98845,12.329555 -11.21552,11.429959 -13.0941,12.991053 -5.78872,4.762983 15.31661,17.488837 4.70896,22.859917 -7.19841,3.650987 -15.95047,8.201971 -21.95614,-0.339998 -3.32926,-4.656983 -5.57877,-14.446148 -12.98813,-6.058978 -18.88681,21.3782225 -26.08122,46.778131 -17.1412,74.479931 -13.64898,-7.778972 -27.00802,-23.362616 -36.15999,-36.0096702 -2.74939,-3.862986 -25.26241,-18.4149336 -30.12933,-17.7535359 8.30816,-3.6779869 5.76872,-7.9639709 15.05167,-3.3599879 0.8998,-14.260949 -29.3895,9.5249656 -25.26241,-14.313848 z"
+       id="me" />
+  </g>
+</svg>

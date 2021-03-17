@@ -1,0 +1,68 @@
+fileFormatVersion: 2
+guid: 5c011bae821b8b444a1577330ddb1660
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: a57477913897c46af95d590f580878bd, type: 3}
+  svgType: 0
+  texturedSpriteMeshType: 0
+  svgPixelsPerUnit: 10000
+  gradientResolution: 128
+  alignment: 6
+  customPivot: {x: 0, y: 0}
+  generatePhysicsShape: 1
+  viewportOptions: 0
+  preserveViewport: 0
+  advancedMode: 0
+  predefinedResolutionIndex: 2
+  targetResolution: 720
+  resolutionMultiplier: 1
+  stepDistance: 10
+  samplingStepDistance: 100
+  maxCordDeviationEnabled: 0
+  maxCordDeviation: 1
+  maxTangentAngleEnabled: 0
+  maxTangentAngle: 5
+  keepTextureAspectRatio: 1
+  textureSize: 256
+  textureWidth: 256
+  textureHeight: 256
+  wrapMode: 0
+  filterMode: 1
+  sampleCount: 4
+  preserveSVGImageAspect: 0
+  spriteData:
+    TessellationDetail: 1
+    SpriteRect:
+      name: saint_kitts_and_nevisSprite
+      originalName: 
+      pivot: {x: 0, y: 0}
+      alignment: 6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 30
+      spriteID: c819684e8af71b84f823ca7fd52eaae8
+      internalID: 0
+    PhysicsOutlines:
+    - Vertices:
+      - {x: 10.279432, y: -15}
+      - {x: 12, y: -11.978852}
+      - {x: 12, y: -9.745287}
+      - {x: 8.704584, y: -5.3601065}
+    - Vertices:
+      - {x: -12, y: 15}
+      - {x: -12, y: 13}
+      - {x: 4.1471157, y: -1.8538389}
+      - {x: 5.464863, y: -1.7805672}
+      - {x: 4.4663944, y: 4.2891617}
+      - {x: 2.250887, y: 9.0313225}
+      - {x: -1.4109192, y: 13.141821}
+      - {x: -5.914794, y: 15}
